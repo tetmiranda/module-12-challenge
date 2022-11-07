@@ -1,5 +1,7 @@
 # Module 12 Report
 
+![module-12-challenge](Images/module12_background.JPG)
+
 ## Overview of the Analysis
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
